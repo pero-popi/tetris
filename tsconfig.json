@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "removeComments": false,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "strict": true,
+    "lib" : ["es2015", "dom"]
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules"
+  ]
+}
